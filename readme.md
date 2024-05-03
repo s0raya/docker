@@ -1,7 +1,7 @@
 # Instalación WINDOWS, LINUX y MAC
 
 ## Docker Desktop
-https://www.docker.com/products/docker-desktop/
+- https://www.docker.com/products/docker-desktop/
 
 ## Docker Compose
 Con Windows viene instalado por defecto con docker desktop
@@ -25,6 +25,6 @@ docker-compose --version
 Para que Docker funcione correctamente siempre tendremos que tenerlo activo, es decir, que Docker Desktop esté ejecutándose.
 
 ## ENLACES DE INTERÉS
-https://www.docker.com/products/docker-desktop/
-https://hub.docker.com/
+- https://www.docker.com/products/docker-desktop/
+- https://hub.docker.com/
 
